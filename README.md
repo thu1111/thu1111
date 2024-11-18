@@ -6,21 +6,20 @@ Hi, I’m [Your Name], a Full-Stack Web Developer passionate about crafting intu
 
 🌟 About Me
 
-	•	🌐 Proficient in building dynamic websites using React, Node.js, Express, and MongoDB.
-	•	⚡ Always experimenting with new tools and technologies to enhance my skills and deliver modern solutions.
-	•	🧠 Lifelong learner committed to mastering full-stack development best practices.
+•	🌐 Proficient in building dynamic websites using React, Node.js, Express, and MongoDB.
+•	⚡ Always experimenting with new tools and technologies to enhance my skills and deliver modern solutions.
+•	🧠 Lifelong learner committed to mastering full-stack development best practices.
 
 
 🔧 Tech Stack
-	•	Frontend - HTML5, CSS3, JavaScript, React
-	•	Backend - Node.js, Express
-	•	Database - MongoDB, SQL
- 	•	Tools - Sit, VS Code, Docker
+•	Frontend - HTML5, CSS3, JavaScript, React
+•	Backend - Node.js, Express
+•	Database - MongoDB, SQL
+ •	Tools - Sit, VS Code, Docker
 
  
 🌱 What I’m Working On
-
-	•	Building scalable web applications with modern technologies.
+•	Building scalable web applications with modern technologies.
 
 
  🤝 Let’s Collaborate!
