@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub Profile!
 
 
-Hi, I’m [Your Name], a Full-Stack Web Developer passionate about crafting intuitive and scalable web applications. With a strong foundation in frontend and backend development, I enjoy solving challenging problems and creating seamless user experiences.
+Hi, I’m Thu, a Full-Stack Web Developer passionate about crafting intuitive and scalable web applications. With a strong foundation in frontend and backend development, I enjoy solving challenging problems and creating seamless user experiences.
 
 
 🌟 About Me
@@ -15,7 +15,7 @@ Hi, I’m [Your Name], a Full-Stack Web Developer passionate about crafting intu
 •	Frontend - HTML5, CSS3, JavaScript, React
 •	Backend - Node.js, Express
 •	Database - MongoDB, SQL
- •	Tools - Sit, VS Code, Docker
+•	Tools - Sit, VS Code, Docker
 
  
 🌱 What I’m Working On
@@ -23,7 +23,6 @@ Hi, I’m [Your Name], a Full-Stack Web Developer passionate about crafting intu
 
 
  🤝 Let’s Collaborate!
-
 I’m open to collaborating on exciting web development projects. If you have an idea or need help building something awesome, feel free to reach out!
 
 
